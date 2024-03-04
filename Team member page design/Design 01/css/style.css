@@ -6,7 +6,7 @@
 }
 
 body{
-    background-color: #01020d;
+    background-color: #010101;
 }
 
 .team-section{
@@ -29,7 +29,7 @@ body{
 }
 
 .team-card{
-    background-color: #060721 ;
+    background-color: #021a12 ;
     border-radius:50px;
     box-shadow: 0px 2px 5px rgba(0,0,0,0.2);
     margin:0px 20px;
@@ -59,7 +59,7 @@ body{
 }
 
 .team-detail p{
-    color:#426385;
+    color:#80beac;
     font-size: 18px;
 }
 
