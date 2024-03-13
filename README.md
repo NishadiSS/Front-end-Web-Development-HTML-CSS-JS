@@ -12,4 +12,8 @@
 ## 💫Nav Bar design Output
 ![image](https://github.com/NishadiSS/Front-end-Web-Development-HTML-CSS-JS/assets/119886016/673f46e3-0019-485e-a40b-742ff54b7b83)
 
+## 💫Footer design output
+![image](https://github.com/NishadiSS/Front-end-Web-Development-HTML-CSS-JS/assets/119886016/85cd65d3-e09b-45e7-8321-966cb7281e8e)
+
+
 
