@@ -15,5 +15,7 @@
 ## 💫Footer design output
 ![image](https://github.com/NishadiSS/Front-end-Web-Development-HTML-CSS-JS/assets/119886016/85cd65d3-e09b-45e7-8321-966cb7281e8e)
 
+## 💫About us page design output
+![image](https://github.com/NishadiSS/Front-end-Web-Development-HTML-CSS-JS/assets/119886016/eaa68e2d-90cb-4f61-9713-d94d6df97406)
 
 
