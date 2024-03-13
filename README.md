@@ -18,4 +18,8 @@
 ## 💫About us page design output
 ![image](https://github.com/NishadiSS/Front-end-Web-Development-HTML-CSS-JS/assets/119886016/eaa68e2d-90cb-4f61-9713-d94d6df97406)
 
+## 💫Team member page design output
+![image](https://github.com/NishadiSS/Front-end-Web-Development-HTML-CSS-JS/assets/119886016/9b887cc3-c1fc-4e3a-bcb3-3bcc082cc1f7)
+
+
 
